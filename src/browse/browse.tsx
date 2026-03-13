@@ -5,6 +5,7 @@ import blueImage from '../images/blue.png';
 import greyImage from '../images/grey.png';
 import redImage from '../images/red.png';
 import yellowImage from '../images/yellow.png';
+import netflixSound from '../netflix-sound.mp3';
 import './browse.css';
 
 const Browse: React.FC = () => {
@@ -34,6 +35,8 @@ const Browse: React.FC = () => {
   ];
 
   const handleProfileClick = (profile: { name: string; image: string; backgroundGif: string }) => {
+    const audio = new Audio(netflixSound);
+    audio.play().catch(error => console.error("Audio play error:", error));
     navigate(`/profile/${profile.name}`, { state: { profileImage: profile.image, backgroundGif: profile.backgroundGif } });
   };
 
