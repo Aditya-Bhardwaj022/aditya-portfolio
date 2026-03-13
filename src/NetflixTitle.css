@@ -9,7 +9,7 @@
 
 .netflix-logo {
   width: 1500px;
-  margin-right: 25px;
+  margin-right: 49px;
   opacity: 0;
   transform: scale(0.8);
   animation: fadeIn 0.5s forwards ease-in;
