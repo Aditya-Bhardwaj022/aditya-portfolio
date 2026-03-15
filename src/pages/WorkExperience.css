@@ -11,12 +11,12 @@
 .timeline-container {
   text-align: center;
   padding: 20px;
-  margin-top: 5rem;
+  margin-top: 7rem;
 }
 
 .timeline-title {
   font-size: 2rem;
-  color: #fff;
+  color: #e50914;
   font-weight: bold;
   margin-bottom: 40px;
   display: inline-block;
@@ -36,4 +36,17 @@
     opacity: 1;
     transform: translateY(0);
   }
+}
+
+/* Netflix-themed timeline overrides */
+.vertical-timeline::before {
+  background: #e50914 !important;
+}
+
+.vertical-timeline-element-date {
+  color: #ccc !important;
+}
+
+.vertical-timeline-element-content:hover {
+  box-shadow: 0 4px 16px rgba(229, 9, 20, 0.3) !important;
 }

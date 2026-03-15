@@ -31,6 +31,14 @@ const timeline: TimelineItem[] = [
     summaryPoints: [],
     dateRange: 'May 2023',
   },
+  {
+    timelineType: 'education',
+    name: 'Little Flower School, Gorakhpur',
+    title: 'High School (Class X)',
+    techStack: '',
+    summaryPoints: [],
+    dateRange: 'May 2021',
+  },
 ];
 
 export async function getTimeline(): Promise<TimelineItem[]> {
