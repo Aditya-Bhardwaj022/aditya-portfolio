@@ -6,7 +6,7 @@ const banner: ProfileBanner = {
   },
   headline: 'Aditya Bhardwaj - Java Developer',
   resumeLink: {
-    url: 'https://drive.google.com/file/d/13sLAH_Y6wx7RZZEFUJAsmDTNVt2IhEql/view?usp=sharing',
+    url: 'https://drive.google.com/file/d/1ejariiavsXIZ6E7Q6Y6bLXMZza6cqAKt/view?usp=sharing',
   },
   linkedinLink: 'https://www.linkedin.com/in/aditya-bhardwaj-9572a3260/',
   profileSummary:
