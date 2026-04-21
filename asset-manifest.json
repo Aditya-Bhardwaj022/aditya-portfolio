@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aditya-portfolio/static/css/main.57d28ac8.css",
-    "main.js": "/aditya-portfolio/static/js/main.a1d4fcb1.js",
+    "main.js": "/aditya-portfolio/static/js/main.3c7b02fa.js",
     "static/js/453.b0cd7502.chunk.js": "/aditya-portfolio/static/js/453.b0cd7502.chunk.js",
     "static/media/mr bean gif.gif": "/aditya-portfolio/static/media/mr bean gif.34fb5d675d79a476c1c5.gif",
     "static/media/fire and blood.png": "/aditya-portfolio/static/media/fire and blood.67003a64488a713eabc4.png",
@@ -26,11 +26,11 @@
     "static/media/atomic_habits.jpg": "/aditya-portfolio/static/media/atomic_habits.1e9739efe6a8eca8240a.jpg",
     "index.html": "/aditya-portfolio/index.html",
     "main.57d28ac8.css.map": "/aditya-portfolio/static/css/main.57d28ac8.css.map",
-    "main.a1d4fcb1.js.map": "/aditya-portfolio/static/js/main.a1d4fcb1.js.map",
+    "main.3c7b02fa.js.map": "/aditya-portfolio/static/js/main.3c7b02fa.js.map",
     "453.b0cd7502.chunk.js.map": "/aditya-portfolio/static/js/453.b0cd7502.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57d28ac8.css",
-    "static/js/main.a1d4fcb1.js"
+    "static/js/main.3c7b02fa.js"
   ]
 }
